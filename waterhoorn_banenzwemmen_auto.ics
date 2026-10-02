@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//Waterhoorn Lane Swimming Auto//EN
 X-WR-TIMEZONE:Europe/Amsterdam
 BEGIN:VEVENT
-UID:fa92049f-737c-41d0-8287-caa811ae4888@waterhoorn-lane-swim
+UID:52af304e-9fd6-46e2-ac86-82f0dd46d08b@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261002T073000
 DTEND;TZID=Europe/Amsterdam:20261002T094000
@@ -11,7 +11,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:5afd6a9e-70f1-4092-a1d3-6165224a945a@waterhoorn-lane-swim
+UID:f99101d5-ee78-4ce0-a31c-4b9e8a7a1a36@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261004T083000
 DTEND;TZID=Europe/Amsterdam:20261004T103000
@@ -19,7 +19,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:a3796fc3-75f9-4955-aad3-54176b0ee7df@waterhoorn-lane-swim
+UID:262ee7f5-6ed3-438f-9506-69bfdd251a53@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261005T073000
 DTEND;TZID=Europe/Amsterdam:20261005T094000
@@ -27,7 +27,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:48bc62b1-1b6c-4fc3-ba5d-561a635c5143@waterhoorn-lane-swim
+UID:2ab5a06c-7ae5-41fa-862b-70e43e8b9878@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261005T190000
 DTEND;TZID=Europe/Amsterdam:20261005T210000
@@ -35,7 +35,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:dd096bfe-9009-4b6e-ac0c-04a05ac8b8b2@waterhoorn-lane-swim
+UID:0176e665-82d9-41bf-b76c-bdcf5e760f69@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261006T073000
 DTEND;TZID=Europe/Amsterdam:20261006T090000
@@ -43,7 +43,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:bc18e39d-1e11-456c-9ca8-a6d746430e0d@waterhoorn-lane-swim
+UID:bed2a746-9094-4dda-96be-b3c317e975ec@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261006T190000
 DTEND;TZID=Europe/Amsterdam:20261006T210000
@@ -51,7 +51,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:b58de558-4031-4da5-a8be-da992a1cbf1e@waterhoorn-lane-swim
+UID:63524f33-511d-4aff-8759-ab0ab7eec4d1@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261007T073000
 DTEND;TZID=Europe/Amsterdam:20261007T090000
@@ -59,7 +59,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:32cb4367-24dd-4baf-963b-5aad09a0e8ab@waterhoorn-lane-swim
+UID:a6724716-c474-4f19-ba8c-6db7421cc429@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261007T103000
 DTEND;TZID=Europe/Amsterdam:20261007T133000
@@ -67,7 +67,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:541d4151-a401-4cc4-9fe1-94cb82b68666@waterhoorn-lane-swim
+UID:25eccd54-8fd6-4735-93b7-81005e35b41c@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261007T180000
 DTEND;TZID=Europe/Amsterdam:20261007T200000
@@ -75,7 +75,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:f50bef4f-6bf0-4428-99cc-c2f4cc70f8b5@waterhoorn-lane-swim
+UID:5bb3ec1c-6355-4b59-8b9e-8052d33e3e46@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261008T073000
 DTEND;TZID=Europe/Amsterdam:20261008T090000
@@ -83,7 +83,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:add7dc63-ba97-44ce-b664-730cc7705db2@waterhoorn-lane-swim
+UID:ad320447-d6cc-41b3-8fc7-42346fce4e3c@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261008T190000
 DTEND;TZID=Europe/Amsterdam:20261008T210000
@@ -91,7 +91,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:bbdb299b-433b-44a5-9a19-21a6af5900ec@waterhoorn-lane-swim
+UID:86db639b-ec91-4af4-b3a1-0d9a2411b554@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261009T073000
 DTEND;TZID=Europe/Amsterdam:20261009T094000
@@ -99,7 +99,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:8c85af1a-26b5-4296-b0dc-d6cff1e365b4@waterhoorn-lane-swim
+UID:b92a471a-5fe1-4405-a446-97d678d3ba3f@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261011T083000
 DTEND;TZID=Europe/Amsterdam:20261011T103000
@@ -107,7 +107,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:02babbbe-4030-4a00-a357-17881aca45f2@waterhoorn-lane-swim
+UID:c77a042d-2456-4af3-ac78-d065d8a89510@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261012T073000
 DTEND;TZID=Europe/Amsterdam:20261012T094000
@@ -115,7 +115,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:99736e45-102c-4e87-9faa-ee8f8f7825ce@waterhoorn-lane-swim
+UID:ddafb110-fb8d-4a76-81b0-e6a22117858a@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261012T120000
 DTEND;TZID=Europe/Amsterdam:20261012T133000
@@ -123,7 +123,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:5ab40ef5-f1db-4797-bd7a-3bc70076b5b6@waterhoorn-lane-swim
+UID:b02ecf48-0404-4611-beb5-9fe87bf77570@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261012T190000
 DTEND;TZID=Europe/Amsterdam:20261012T210000
@@ -131,7 +131,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:494cb383-e7b9-4488-9241-aef8b8e76494@waterhoorn-lane-swim
+UID:ad84cead-174d-411b-b1d7-cff8eb134b77@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261013T073000
 DTEND;TZID=Europe/Amsterdam:20261013T090000
@@ -139,7 +139,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:26fbe947-9d6d-44c1-a824-f21190d1e7c2@waterhoorn-lane-swim
+UID:447234f7-0381-446e-ad18-43583395f953@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261013T190000
 DTEND;TZID=Europe/Amsterdam:20261013T210000
@@ -147,7 +147,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:653c9bef-c76d-4712-a535-c6ed4d7b7031@waterhoorn-lane-swim
+UID:9d52e8ac-805c-45e0-bc44-41d7fba27e28@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261014T073000
 DTEND;TZID=Europe/Amsterdam:20261014T090000
@@ -155,7 +155,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:dd29ed43-aecf-4d52-a513-ca2544a34b7e@waterhoorn-lane-swim
+UID:5027dee9-a286-4105-a2e7-3c20cc23a4e6@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261014T103000
 DTEND;TZID=Europe/Amsterdam:20261014T133000
@@ -163,7 +163,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:374b3e68-f9c2-43ae-bbb2-668b3467ab24@waterhoorn-lane-swim
+UID:bcc5b137-9692-40bb-bbab-fafd5fdf7800@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261014T180000
 DTEND;TZID=Europe/Amsterdam:20261014T200000
@@ -171,7 +171,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:9d066499-ed83-4391-bef9-c9b8b901435c@waterhoorn-lane-swim
+UID:163cea88-2bbb-49a0-ba63-65c6700e984f@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261015T073000
 DTEND;TZID=Europe/Amsterdam:20261015T090000
@@ -179,7 +179,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:205f9010-48ac-4fc6-a414-69c226e9cae5@waterhoorn-lane-swim
+UID:ef7b34bc-dd30-41b7-85f2-26e4bf8e516b@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261015T190000
 DTEND;TZID=Europe/Amsterdam:20261015T210000
@@ -187,7 +187,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:88f109e5-c452-4848-bf49-377845fb6d00@waterhoorn-lane-swim
+UID:fc77c2cb-ead5-4876-b143-b9d19e286069@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261016T073000
 DTEND;TZID=Europe/Amsterdam:20261016T094000
@@ -195,7 +195,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:12869c14-c75e-4e60-98df-c291e00126fb@waterhoorn-lane-swim
+UID:40ec3093-52bd-4218-a008-7bc61e4e4b51@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261018T083000
 DTEND;TZID=Europe/Amsterdam:20261018T103000
@@ -203,7 +203,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:a3ce7697-930e-41c3-b43d-0adab9198b40@waterhoorn-lane-swim
+UID:9cd49b22-2b47-4787-b0ab-e43b1f506cbe@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261019T073000
 DTEND;TZID=Europe/Amsterdam:20261019T094000
@@ -211,7 +211,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:e038da82-209c-44ed-8bc6-4e3a25ca06d4@waterhoorn-lane-swim
+UID:0d2304e9-8564-4fc6-9e6b-7df0a503b6ff@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261019T190000
 DTEND;TZID=Europe/Amsterdam:20261019T210000
@@ -219,7 +219,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:8d4811cf-c139-4e06-a491-a5d4894989a4@waterhoorn-lane-swim
+UID:8b761c89-a9a9-4018-b58b-c3d2b10964ec@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261020T073000
 DTEND;TZID=Europe/Amsterdam:20261020T090000
@@ -227,7 +227,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:bfadf544-486a-40aa-8d9d-0f7116d4568f@waterhoorn-lane-swim
+UID:70474ef1-f671-4ea3-a70c-4b15a050e89f@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261020T190000
 DTEND;TZID=Europe/Amsterdam:20261020T210000
@@ -235,7 +235,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:1cd5e3e0-7f3f-4ca5-bd9f-bcb6fa3f9f78@waterhoorn-lane-swim
+UID:23b8ad58-f31c-42d9-99de-00d4bf2d8048@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261021T073000
 DTEND;TZID=Europe/Amsterdam:20261021T090000
@@ -243,7 +243,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:039f2f99-0185-4804-b836-90cee6dc98cf@waterhoorn-lane-swim
+UID:b5b7f5eb-29b0-48f1-a8c4-a9b35508a576@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261021T103000
 DTEND;TZID=Europe/Amsterdam:20261021T133000
@@ -251,7 +251,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:777c826d-e8c2-4de0-a5f3-bb2194f1c1a7@waterhoorn-lane-swim
+UID:84e3f2a9-7866-418a-9055-6aa620a16671@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261021T180000
 DTEND;TZID=Europe/Amsterdam:20261021T200000
@@ -259,7 +259,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:21d7ba7d-71f5-4aa0-b012-c8ec06bc3dd0@waterhoorn-lane-swim
+UID:c41abfbb-1e31-4bc1-ad97-9eb4ee3dd402@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261022T073000
 DTEND;TZID=Europe/Amsterdam:20261022T090000
@@ -267,7 +267,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:1646a465-163a-46df-b1ae-2b04d11c5c69@waterhoorn-lane-swim
+UID:d4f5a1c0-9b39-4f00-969c-4b5bc5cc71fd@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261022T190000
 DTEND;TZID=Europe/Amsterdam:20261022T210000
@@ -275,7 +275,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:0da1f5bd-e838-492a-9abe-b10e75300412@waterhoorn-lane-swim
+UID:7c38c5e2-422f-4676-b1a9-29364c2927be@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261023T073000
 DTEND;TZID=Europe/Amsterdam:20261023T094000
@@ -283,7 +283,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:4358516e-ddce-4f30-93c1-51076e1445e9@waterhoorn-lane-swim
+UID:5baffe66-ffbe-4604-82d3-6966c8444fd9@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261025T083000
 DTEND;TZID=Europe/Amsterdam:20261025T103000
@@ -291,7 +291,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:52f51832-a3ed-4cc0-8526-51e7c3c6fc79@waterhoorn-lane-swim
+UID:50be98aa-ec04-47aa-a03d-748425d78460@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261026T073000
 DTEND;TZID=Europe/Amsterdam:20261026T094000
@@ -299,7 +299,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:ee48a010-300c-4577-be22-59c308496865@waterhoorn-lane-swim
+UID:a5c26d37-8dc2-4fff-93ec-780b97e3329e@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261026T190000
 DTEND;TZID=Europe/Amsterdam:20261026T210000
@@ -307,7 +307,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:71c841f1-f6d2-49ba-bd61-2ee484b32d18@waterhoorn-lane-swim
+UID:da782e15-a779-4bd2-8aa8-bfe40c636a7d@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261027T073000
 DTEND;TZID=Europe/Amsterdam:20261027T090000
@@ -315,7 +315,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:3723f45f-7fa9-4968-96ad-888bf71373ae@waterhoorn-lane-swim
+UID:03d95698-7c91-41e4-8b72-0c3f42d99695@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261027T190000
 DTEND;TZID=Europe/Amsterdam:20261027T210000
@@ -323,7 +323,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:1f4385ac-d883-49c8-b94c-c6d4c9e7e27e@waterhoorn-lane-swim
+UID:c820d030-418b-4637-bd80-82d7ccebd254@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261028T073000
 DTEND;TZID=Europe/Amsterdam:20261028T090000
@@ -331,7 +331,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:14ec8c37-9dcb-43a6-a45f-9c4d5961ade2@waterhoorn-lane-swim
+UID:8f1997b0-5ed4-4458-a312-f86b79588b9b@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261028T103000
 DTEND;TZID=Europe/Amsterdam:20261028T133000
@@ -339,7 +339,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:2683adae-19bc-4dd9-9a59-0868ee6d1030@waterhoorn-lane-swim
+UID:f77576ed-f9cb-4776-94e9-3890b3371865@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261028T180000
 DTEND;TZID=Europe/Amsterdam:20261028T200000
@@ -347,7 +347,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:5fe0008e-9341-4b87-b8af-3ad4def12038@waterhoorn-lane-swim
+UID:9cf56f2e-2cbd-44e2-be3b-47b4e5ff795a@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261029T073000
 DTEND;TZID=Europe/Amsterdam:20261029T090000
@@ -355,7 +355,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:fee17bcc-bbb5-463c-ad45-fd97523262b4@waterhoorn-lane-swim
+UID:9151eee8-8c42-4e55-8aa9-f84389097bdb@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261029T190000
 DTEND;TZID=Europe/Amsterdam:20261029T210000
@@ -363,7 +363,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:d152ae8c-ce5c-4fb9-8543-cb8b1b66ad41@waterhoorn-lane-swim
+UID:06f7e280-26ff-44d4-b22e-ecb96a10df5c@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261030T073000
 DTEND;TZID=Europe/Amsterdam:20261030T094000
@@ -371,7 +371,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:407c9374-5ceb-4311-a320-2d89b45ee408@waterhoorn-lane-swim
+UID:bc7d9660-4f0d-4134-a20b-d063398d67d1@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261101T083000
 DTEND;TZID=Europe/Amsterdam:20261101T103000
@@ -379,7 +379,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:4c2c087f-e5ed-456d-bcfb-ae8e200314b7@waterhoorn-lane-swim
+UID:97b7ac4d-0f39-4b0f-b884-5c384d1bee86@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261102T073000
 DTEND;TZID=Europe/Amsterdam:20261102T094000
@@ -387,7 +387,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:41bbd44f-ac97-4963-9e70-a022ba26f7b5@waterhoorn-lane-swim
+UID:a4271b47-c504-4efe-bb1f-02b9db784c61@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261102T190000
 DTEND;TZID=Europe/Amsterdam:20261102T210000
@@ -395,7 +395,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:312186a9-49ce-42c7-b123-510b72f071da@waterhoorn-lane-swim
+UID:e05c0ebd-ffc0-4998-bad0-42f7bba74c15@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261103T073000
 DTEND;TZID=Europe/Amsterdam:20261103T090000
@@ -403,7 +403,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:915b7890-bf8b-4bcc-8a90-f2b9f9a873f6@waterhoorn-lane-swim
+UID:a7582066-79d2-4f23-89ee-d3e07f63cec0@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261103T190000
 DTEND;TZID=Europe/Amsterdam:20261103T210000
@@ -411,7 +411,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:bfce92ad-2f5e-4608-9526-447cf8ef4eb8@waterhoorn-lane-swim
+UID:2c3a5577-0cc9-47a6-bea0-13c35ff39c25@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261104T073000
 DTEND;TZID=Europe/Amsterdam:20261104T090000
@@ -419,7 +419,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:6c52b112-2adf-4ca3-8667-e62e285a45ae@waterhoorn-lane-swim
+UID:bd837405-50b3-4dcb-8916-0c209260cb27@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261104T103000
 DTEND;TZID=Europe/Amsterdam:20261104T133000
@@ -427,7 +427,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:1ccf56ec-1e50-4bc8-97ee-c3c1739c18d5@waterhoorn-lane-swim
+UID:5e2188e5-e3c4-4c08-8bb6-8a91d8978f3a@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261104T180000
 DTEND;TZID=Europe/Amsterdam:20261104T200000
@@ -435,7 +435,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:c054c70b-c96e-4aeb-867f-62ac1ccb270b@waterhoorn-lane-swim
+UID:f6e6b4c4-39f4-4bca-8856-31edcc8772f4@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261105T073000
 DTEND;TZID=Europe/Amsterdam:20261105T090000
@@ -443,7 +443,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:c6734c2e-cb2e-41be-930f-d1a1b06b847e@waterhoorn-lane-swim
+UID:6b877b78-64fc-4f73-ba56-a6f8c02ebbea@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261105T190000
 DTEND;TZID=Europe/Amsterdam:20261105T210000
@@ -451,7 +451,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:835f3054-ddae-451e-b82b-b039ac58a718@waterhoorn-lane-swim
+UID:46d59b8c-f1c5-4eae-972c-28234c2b11a3@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261106T073000
 DTEND;TZID=Europe/Amsterdam:20261106T094000
@@ -459,7 +459,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:af4086cf-4138-4199-bf17-387f617d2299@waterhoorn-lane-swim
+UID:99d94691-2900-49fc-bbe5-018fa5a6a265@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261108T083000
 DTEND;TZID=Europe/Amsterdam:20261108T103000
@@ -467,7 +467,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:f66bbd9b-95d5-4996-81d9-3d38725da766@waterhoorn-lane-swim
+UID:53b16703-9212-4f5f-8514-b9504d43e049@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261109T073000
 DTEND;TZID=Europe/Amsterdam:20261109T094000
@@ -475,7 +475,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:ab7135f3-2783-4b9e-bf54-9361fd8895a2@waterhoorn-lane-swim
+UID:0406a37d-63ef-4949-b040-88da7b93439d@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261109T190000
 DTEND;TZID=Europe/Amsterdam:20261109T210000
@@ -483,7 +483,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:3cf06a96-7062-4a45-8b7a-d19071b09bf4@waterhoorn-lane-swim
+UID:5463c31a-55b0-42c0-8e49-798b0ce63533@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261110T073000
 DTEND;TZID=Europe/Amsterdam:20261110T090000
@@ -491,7 +491,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:b3acf786-292d-40b9-a4b4-b2887e253249@waterhoorn-lane-swim
+UID:648a3959-7678-4113-a677-1eb6d6620a3f@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261110T190000
 DTEND;TZID=Europe/Amsterdam:20261110T210000
@@ -499,7 +499,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:1685fb2b-9554-48d5-9f7c-f113e2197b97@waterhoorn-lane-swim
+UID:c88c4666-34ef-44bc-bbd3-671a10a5b9d3@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261111T073000
 DTEND;TZID=Europe/Amsterdam:20261111T090000
@@ -507,7 +507,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:29f4cf76-423a-4754-9617-cd19d05729aa@waterhoorn-lane-swim
+UID:14b2e66d-1933-4e50-a965-acbfd1c01c67@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261111T103000
 DTEND;TZID=Europe/Amsterdam:20261111T133000
@@ -515,7 +515,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:36a9a782-07b2-4fa0-9148-a49136d3d265@waterhoorn-lane-swim
+UID:a88c3b8c-77b2-44ba-b879-b1622d442a59@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261111T180000
 DTEND;TZID=Europe/Amsterdam:20261111T200000
@@ -523,7 +523,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:007b994a-5cd3-4896-9576-3512f7977073@waterhoorn-lane-swim
+UID:0fc19575-eeb9-4fb4-aabb-0d863fc1a3dd@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261112T073000
 DTEND;TZID=Europe/Amsterdam:20261112T090000
@@ -531,7 +531,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:ddd5571e-af34-426e-a89a-23f028fd80e6@waterhoorn-lane-swim
+UID:6b158a7b-640c-4f44-a2f2-0789128e8a82@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261112T190000
 DTEND;TZID=Europe/Amsterdam:20261112T210000
@@ -539,7 +539,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:57c346c2-336c-4c68-bff1-e53fd861e106@waterhoorn-lane-swim
+UID:161f1feb-006f-4f70-9f97-75fe67dcf32e@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261113T073000
 DTEND;TZID=Europe/Amsterdam:20261113T094000
@@ -547,7 +547,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:ce6515a2-ec80-4d7a-b214-ca4715864b52@waterhoorn-lane-swim
+UID:a3e70f75-c7ea-4b1f-aefc-0af6165416b9@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261115T083000
 DTEND;TZID=Europe/Amsterdam:20261115T103000
@@ -555,7 +555,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:4c692e00-9373-4b9c-abcc-780c2c973b9b@waterhoorn-lane-swim
+UID:11fe101a-89de-43e8-bb2c-8d9d749f012c@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261116T073000
 DTEND;TZID=Europe/Amsterdam:20261116T094000
@@ -563,7 +563,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:b5b65b6e-33a9-4e03-a3ce-bd8a7f4265fc@waterhoorn-lane-swim
+UID:bf86e0a6-d372-4fd9-a928-b73d187fb269@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261116T190000
 DTEND;TZID=Europe/Amsterdam:20261116T210000
@@ -571,7 +571,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:0afdbd0c-4005-4e30-8110-6ce3cd3b2a10@waterhoorn-lane-swim
+UID:9ae35dbb-2c0b-49d3-82b3-b2ec1c3f97ea@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261117T073000
 DTEND;TZID=Europe/Amsterdam:20261117T090000
@@ -579,7 +579,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:649f75da-1ea1-43b6-85b0-3b6026778166@waterhoorn-lane-swim
+UID:29a52e41-6561-4233-92f0-c73166ed4952@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261117T190000
 DTEND;TZID=Europe/Amsterdam:20261117T210000
@@ -587,7 +587,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:631beb2f-e130-448e-8741-5351806fc7b9@waterhoorn-lane-swim
+UID:58865136-54f1-4a66-a6f6-43c2effa4d60@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261118T073000
 DTEND;TZID=Europe/Amsterdam:20261118T090000
@@ -595,7 +595,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:be17237c-5f91-4dc7-9979-abeb384f01e6@waterhoorn-lane-swim
+UID:e026b4e4-aa56-4b0d-b9ec-8322cd81c550@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261118T103000
 DTEND;TZID=Europe/Amsterdam:20261118T133000
@@ -603,7 +603,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:6edc6d40-c535-4c14-a8d5-3968dc9f7a44@waterhoorn-lane-swim
+UID:c3b68ceb-b39c-4e97-a009-a8b0ca5959f0@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261118T180000
 DTEND;TZID=Europe/Amsterdam:20261118T200000
@@ -611,7 +611,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:b5628ce6-df14-4fa9-9625-77a0dcd5ad0f@waterhoorn-lane-swim
+UID:2bb8a450-dbda-402d-9003-03d1389cb521@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261119T073000
 DTEND;TZID=Europe/Amsterdam:20261119T090000
@@ -619,7 +619,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:2d0f7720-ed52-4d5a-8eb8-af330bda5050@waterhoorn-lane-swim
+UID:1ef59edc-ed58-4768-b9b5-4b63d650bc59@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261119T190000
 DTEND;TZID=Europe/Amsterdam:20261119T210000
@@ -627,7 +627,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:ecbc19b5-af02-418d-90df-2f114769a0e7@waterhoorn-lane-swim
+UID:6cbaee3c-454a-4fb1-9e75-c424bf1bb8b3@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261120T073000
 DTEND;TZID=Europe/Amsterdam:20261120T094000
@@ -635,7 +635,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:a7de5de4-9e2d-4490-8548-2cfe21507998@waterhoorn-lane-swim
+UID:6e3e9511-bead-464f-a2dc-c4a393053c77@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261122T083000
 DTEND;TZID=Europe/Amsterdam:20261122T103000
@@ -643,7 +643,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:2ce4b3fc-511b-4783-909f-d34e2e46c932@waterhoorn-lane-swim
+UID:ceaaa87b-a5ee-445c-8371-78f2d2bfbed2@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261123T073000
 DTEND;TZID=Europe/Amsterdam:20261123T094000
@@ -651,7 +651,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:a7d609c4-b7e3-4aea-918f-9205884d610c@waterhoorn-lane-swim
+UID:7185884a-2721-4373-b0fc-97822c4bda90@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261123T190000
 DTEND;TZID=Europe/Amsterdam:20261123T210000
@@ -659,7 +659,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:942eb4ba-d6d3-4695-9a39-5512b21a93b8@waterhoorn-lane-swim
+UID:687fce2c-e6c0-4df1-bfff-f601b8d71c36@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261124T073000
 DTEND;TZID=Europe/Amsterdam:20261124T090000
@@ -667,7 +667,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:4c0bb928-c4b5-4a31-9c2a-8ed89f84e8cb@waterhoorn-lane-swim
+UID:095d284d-c1ac-4902-99b6-9fbdefcdfd3d@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261124T190000
 DTEND;TZID=Europe/Amsterdam:20261124T210000
@@ -675,7 +675,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:7753f7be-7e18-408f-8799-d74c5cd77550@waterhoorn-lane-swim
+UID:4c44fc02-ea56-4c11-a8fc-843b595d8189@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261125T073000
 DTEND;TZID=Europe/Amsterdam:20261125T090000
@@ -683,7 +683,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:1fafcb4a-93f2-4e06-8677-171c74a256ca@waterhoorn-lane-swim
+UID:0c4a1590-c7c0-4ba5-83cf-8f8b6341ac76@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261125T103000
 DTEND;TZID=Europe/Amsterdam:20261125T133000
@@ -691,7 +691,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:6228be8a-cbf8-428e-9c8b-ad8a05fbe6a4@waterhoorn-lane-swim
+UID:19a51177-7a88-468a-acd5-524551997507@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261125T180000
 DTEND;TZID=Europe/Amsterdam:20261125T200000
@@ -699,7 +699,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:50639bc0-a239-47a0-91ac-b450a1e00ccd@waterhoorn-lane-swim
+UID:06086b47-f24d-484e-ba67-f2279be41a5b@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261126T073000
 DTEND;TZID=Europe/Amsterdam:20261126T090000
@@ -707,7 +707,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:10e3f203-0c35-4fa4-8215-46a194b60dee@waterhoorn-lane-swim
+UID:459bc34c-72ad-4472-bd9a-c156586a7778@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261126T190000
 DTEND;TZID=Europe/Amsterdam:20261126T210000
@@ -715,7 +715,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:7ddc3770-f75b-43a0-a1ee-545f4df813cc@waterhoorn-lane-swim
+UID:39b585f2-720f-4621-9672-87fc9bc9a0e0@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261127T073000
 DTEND;TZID=Europe/Amsterdam:20261127T094000
@@ -723,7 +723,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:97cf9630-8960-405b-a1b6-a33c763cc954@waterhoorn-lane-swim
+UID:9adeddd4-be4c-4ca3-b560-2dfada363b35@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261129T083000
 DTEND;TZID=Europe/Amsterdam:20261129T103000
@@ -731,7 +731,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:54a48b79-8978-46fc-8b6d-c30bc10051ca@waterhoorn-lane-swim
+UID:d86a0ef0-877b-4c19-9d07-3892560b5b17@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261130T073000
 DTEND;TZID=Europe/Amsterdam:20261130T094000
@@ -739,7 +739,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:8560973a-ff3d-442c-89d6-24689b301bc5@waterhoorn-lane-swim
+UID:8e86f691-e8d1-4be0-81db-0f8a6675f161@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261130T190000
 DTEND;TZID=Europe/Amsterdam:20261130T210000
@@ -747,7 +747,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:44573448-0e43-4742-846b-1292f005b070@waterhoorn-lane-swim
+UID:560e2d18-6afb-4ba1-a400-1a3ea0d63188@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261201T073000
 DTEND;TZID=Europe/Amsterdam:20261201T090000
@@ -755,7 +755,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:2b6e829d-a081-4d89-902b-7782bfdaa690@waterhoorn-lane-swim
+UID:2b1f649b-1a1f-4ee0-a92a-d189aa7d7952@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261201T190000
 DTEND;TZID=Europe/Amsterdam:20261201T210000
@@ -763,7 +763,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:17e680c5-c724-4044-be10-be6dcc2eeae6@waterhoorn-lane-swim
+UID:2888472c-10e1-4740-9d74-9338a8bc5a74@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261202T073000
 DTEND;TZID=Europe/Amsterdam:20261202T090000
@@ -771,7 +771,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:2dd9131a-2301-45ee-aef0-bc06ccc296e0@waterhoorn-lane-swim
+UID:3aaf5c02-8acb-4a8a-a5e5-0da9a99ed21f@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261202T103000
 DTEND;TZID=Europe/Amsterdam:20261202T133000
@@ -779,7 +779,7 @@ LOCATION:Zwembad De Waterhoorn, Holenweg 14E, 1624 PB Hoorn
 DESCRIPTION:Automatically generated from the Optisport lane swimming timetable.
 END:VEVENT
 BEGIN:VEVENT
-UID:b49980a2-cdbb-42ec-9a95-ad84f3cabf51@waterhoorn-lane-swim
+UID:c3370c18-6701-465c-beb6-6c54d11a76ec@waterhoorn-lane-swim
 SUMMARY:Lane swimming - Wedstrijdbad
 DTSTART;TZID=Europe/Amsterdam:20261202T180000
 DTEND;TZID=Europe/Amsterdam:20261202T200000
